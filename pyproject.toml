@@ -1,0 +1,8 @@
+[project]
+name = "github-pr-report"
+version = "1.0.0"
+description = "GitHub PR Report Generator for release branches using sprint date ranges"
+requires-python = ">=3.8"
+dependencies = [
+    "python-dotenv",
+]
